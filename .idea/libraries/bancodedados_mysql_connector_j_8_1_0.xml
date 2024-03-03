@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bancodedados-mysql-connector-j-8.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/implementacao/bancodedados/bibliotecas/mysql-connector-j-8.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

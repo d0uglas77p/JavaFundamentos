@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bancodedados-commons-lang3-3.14.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/implementacao/bancodedados/bibliotecas/commons-lang3-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
