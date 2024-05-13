@@ -5,7 +5,7 @@ package estrutura;
  * @author Douglas
  * @version 1.0
  */
-public class documentado {
+public class Documentado {
 
     /**
      * Método principal que realiza uma conta simples
