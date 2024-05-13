@@ -1,4 +1,4 @@
-package cap1;
+package sintaxe.cap1;
 
 import java.util.Scanner;
 

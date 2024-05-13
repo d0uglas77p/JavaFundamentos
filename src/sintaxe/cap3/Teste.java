@@ -1,4 +1,4 @@
-package cap3;
+package sintaxe.cap3;
 
 
 public class Teste {

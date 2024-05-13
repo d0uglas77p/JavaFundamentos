@@ -1,6 +1,4 @@
-package cap2;
-
-import java.util.Scanner;
+package sintaxe.cap2;
 
 public class Imc {
 

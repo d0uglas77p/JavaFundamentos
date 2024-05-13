@@ -1,7 +1,7 @@
 package implementacao.bancodedados.DAO;
 
 import implementacao.bancodedados.conexao.Conexao;
-import implementacao.bancodedados.entify.Usuario;
+import implementacao.bancodedados.entity.Usuario;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;

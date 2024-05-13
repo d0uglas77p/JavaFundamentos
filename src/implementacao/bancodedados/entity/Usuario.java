@@ -1,4 +1,4 @@
-package implementacao.bancodedados.entify;
+package implementacao.bancodedados.entity;
 
 public class Usuario {
 

@@ -1,4 +1,4 @@
-package cap1;
+package sintaxe.cap1;
 
 public class soma {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cap1;
+package sintaxe.cap1;
 
 // mostre a área e o prímetro de uma circunferência
 public class circunferencia {

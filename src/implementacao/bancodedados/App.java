@@ -1,7 +1,7 @@
 package implementacao.bancodedados;
 
 import implementacao.bancodedados.DAO.UsuarioDAO;
-import implementacao.bancodedados.entify.Usuario;
+import implementacao.bancodedados.entity.Usuario;
 import org.apache.commons.lang3.StringUtils;
 
 public class App {
