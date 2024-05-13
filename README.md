@@ -4,6 +4,7 @@
 ### Tipos 
 ### Operações
 ### Estruturas
-### Programção orientada á objetos
-### Biblioteca
+### Programação orientada a objetos
+### Bibliotecas
 ### Banco de Dados
+### Collections
