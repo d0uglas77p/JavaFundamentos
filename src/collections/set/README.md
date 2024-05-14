@@ -5,7 +5,7 @@
 <a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
 </p>
 
-_Fonte de estudo oferecido pela DIO:_ [Collection - List](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/set)
+_Fonte de estudo oferecido pela DIO:_ [Collection - Set](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/set)
 
 
 - A interface `Set` é uma coleção que não pode conter elementos duplicados.
