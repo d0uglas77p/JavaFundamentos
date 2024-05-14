@@ -1,4 +1,4 @@
-package collections.list.pesquisa;
+package collections.list.pesquisa.livro;
 
 // Classe para representar um livro com título, autor e ano de publicação.
 public class Livro {

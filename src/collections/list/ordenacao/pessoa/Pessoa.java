@@ -1,4 +1,4 @@
-package collections.list.ordenacao;
+package collections.list.ordenacao.pessoa;
 
 // Classe Pessoa que implementa Comparable para permitir ordenação por idade.
 public class Pessoa implements Comparable<Pessoa> {

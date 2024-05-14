@@ -1,4 +1,4 @@
-package collections.list.operacoes;
+package collections.list.operacoes.tarefa;
 
 // Classe Tarefa representa uma única tarefa com uma descrição.
 public class Tarefa {

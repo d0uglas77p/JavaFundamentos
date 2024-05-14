@@ -1,4 +1,4 @@
-package collections.list.operacoes;
+package collections.list.operacoes.item;
 
 // Classe para representar um item com nome, preço e quantidade.
 public class Item {
