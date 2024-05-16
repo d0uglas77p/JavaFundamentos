@@ -1,6 +1,6 @@
 # Functional Interface
 
-_Fonte de estudo oferecido pela DIO:_ [Stream Api - Functional Interface](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
+_Fonte de estudo oferecido pela DIO:_ [Stream Api - Functional Interface](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java/tree/master/src/functional_interface)
 
 Qualquer interface com um SAM (Single Abstract Method) é uma interface funcional e sua implementação pode ser tratada
 como
