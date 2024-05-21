@@ -47,7 +47,6 @@ Uma classe que herda de outra classe é chamada de subclasse, enquanto a classe 
     // A subclasse Cachorro herda de Animal
   }
   ```
-#
 
 ## @Override
 A anotação @Override é usada para indicar que um método na subclasse está sobrescrevendo um método da superclasse. Se o método na subclasse não estiver sobrescrevendo corretamente, o compilador emitirá um erro.
@@ -58,7 +57,6 @@ A anotação @Override é usada para indicar que um método na subclasse está s
     System.out.println("Latindo...");
   }
   ```
-#
 
 ## super()
 A palavra-chave super é usada para referenciar membros da superclasse. Pode ser utilizada para chamar o construtor da superclasse, acessar métodos e variáveis da superclasse.
