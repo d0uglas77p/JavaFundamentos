@@ -12,6 +12,10 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mockito-maven" />
+        <option name="gradleHome" value="" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

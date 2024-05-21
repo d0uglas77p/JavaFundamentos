@@ -1,0 +1,11 @@
+org\example\EnviarMensagem.class
+org\example\Mensagem.class
+org\example\Formato.class
+org\example\PlataformaDeEnvio.class
+org\example\ApiDosCorreios.class
+org\example\Email.class
+org\example\Pessoa.class
+org\example\CadastrarPessoa.class
+org\example\Conta.class
+org\example\DadosLocalizacao.class
+org\example\ServicoEnvioEmail.class

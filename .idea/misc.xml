@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/junit-gradle/pom.xml" />
+        <option value="$PROJECT_DIR$/mockito-maven/pom.xml" />
       </list>
     </option>
   </component>
